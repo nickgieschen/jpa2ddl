@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.devskiller.jpa2ddl</groupId>
+  <artifactId>jpa2ddl-flyway-maven-sample</artifactId>
+  <version>0.9.13-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200418.233349</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200418233349</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.9.13-20200418.233349-1</value>
+        <updated>20200418233349</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.13-20200418.233349-1</value>
+        <updated>20200418233349</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
