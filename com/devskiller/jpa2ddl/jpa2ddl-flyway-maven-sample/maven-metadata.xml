@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.devskiller.jpa2ddl</groupId>
+  <artifactId>jpa2ddl-flyway-maven-sample</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.13-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200418235111</lastUpdated>
+  </versioning>
+</metadata>
