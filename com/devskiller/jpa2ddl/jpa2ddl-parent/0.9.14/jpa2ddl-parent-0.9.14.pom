@@ -5,7 +5,7 @@
 
     <groupId>com.devskiller.jpa2ddl</groupId>
     <artifactId>jpa2ddl-parent</artifactId>
-    <version>0.9.13-SNAPSHOT</version>
+    <version>0.9.14</version>
 
     <name>${project.artifactId}</name>
     <description>jpa2ddl parent</description>
@@ -39,8 +39,7 @@
     <modules>
         <module>jpa2ddl-core</module>
         <module>jpa2ddl-maven-plugin</module>
-        <module>jpa2ddl-samples
-        </module> <!-- samples module cannot be last because of the https://issues.sonatype.org/browse/NEXUS-9138 -->
+        <module>jpa2ddl-samples</module> <!-- samples module cannot be last because of the https://issues.sonatype.org/browse/NEXUS-9138 -->
         <module>jpa2ddl-gradle-plugin</module>
     </modules>
 
